@@ -82,12 +82,9 @@ Congrats !!! You are now able to run the project in your own development environ
 
 _Note: I have place *testng.xml* file under src/test/resources folder._
 
-## Authors
 
-* **Lavatech Technology** - *Initial work* - [Yogita Soni](https://github.com/lavatech321)
 
-## Contact
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
